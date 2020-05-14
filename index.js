@@ -12,6 +12,7 @@ const cityInfoList = [
     { cityName: '深圳', cityId: 4 },
     { cityName: '杭州', cityId: 79 },
     { cityName: '厦门', cityId: 606 },
+    { cityName: '成都', cityId: 102 },
 ]
 
 function getData({cityId, cityName}) {
